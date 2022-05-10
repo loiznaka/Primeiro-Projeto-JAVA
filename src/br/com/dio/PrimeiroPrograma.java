@@ -11,7 +11,6 @@ public class PrimeiroPrograma {
 		System.out.println(gato);
 		System.out.println(livros);
 	}
-
 }
 
 class Livros {
